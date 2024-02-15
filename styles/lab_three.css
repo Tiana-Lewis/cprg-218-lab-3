@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="styles/reset.css">
+  <link rel="stylesheet" type="text/css" href="styles/fonts.css">
+  <link rel="stylesheet" type="text/css" href="styles/global.css">
+  <link rel="stylesheet" type="text/css" href="styles/assignment-one-starter.css">
+  <link rel="stylesheet" type="text/css" href="styles/assignment_one.css">
+  <link rel="stylesheet" type="text/css" href="styles/lab_three.css">
+  <title>Responsive CSS Layout</title>
+</head>
+<body>
+  <div class="header-container">
+    <h1>Assignment 1</h1>
+    <h2>Responsive CSS Layout</h2>
+  </div>
+  <section class="container">
+    <ul class="card-container">
+      <li class="card">
+        <img src="assets/brownies.jpg" alt="brownies squares in a stack of three">
+        <div class="card-content">
+          <h3 class="subheader">
+            Animals
+          </h3>
+          <h4 class="header">
+            Puffin
+          </h4>
+          <p class="paragraph">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </div>
+      </li>
+      <li class="card">
+        <img src="assets/cinnamon-buns.jpg" alt="fresh cinnamon buns in an alimunium tray ">
+        <div class="card-content">
+          <h3 class="subheader">
+            Animals
+          </h3>
+          <h4 class="header">
+            Tiger
+          </h4>
+          <p class="paragraph">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </div>
+      </li>
+      <li class="card">
+        <img src="assets/cookies.jpg" alt="top down view of fresh chocolate chip cookies">
+        <div class="card-content">
+          <h3 class="subheader">
+            Animals
+          </h3>
+          <h4 class="header">
+            Lizard
+          </h4>
+          <p class="paragraph">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </div>
+      </li>
+      <li class="card">
+        <img src="assets/croissant.jpg" alt="fresh croissants on a tray">
+        <div class="card-content">
+          <h3 class="subheader">
+            Animals
+          </h3>
+          <h4 class="header">
+            Frog
+          </h4>
+          <p class="paragraph">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </div>
+      </li>
+      <li class="card">
+        <img src="assets/cupcakes.jpg" alt="vanilla cupackes with blue icing in a line">
+        <div class="card-content">
+          <h3 class="subheader">
+            Animals
+          </h3>
+          <h4 class="header">
+            Monkey
+          </h4>
+          <p class="paragraph">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </div>
+      </li>
+      <li class="card">
+        <img src="assets/macaron.jpg" alt="three macarons in the colors yellow, green and red">
+        <div class="card-content">
+          <h3 class="subheader">
+            Animals
+          </h3>
+          <h4 class="header">
+            Crane
+          </h4>
+          <p class="paragraph">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </div>
+      </li>
+      <li class="card">
+        <img src="assets/pie.jpg" alt="a pie with stalks of wheat laying across it for garnish">
+        <div class="card-content">
+          <h3 class="subheader">
+            Animals
+          </h3>
+          <h4 class="header">
+            Red Panda
+          </h4>
+          <p class="paragraph">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </div>
+      </li>
+      <li class="card">
+        <img src="assets/pretzel.jpg" alt="one baked pretzel on a wooden table">
+        <div class="card-content">
+          <h3 class="subheader">
+            Animals
+          </h3>
+          <h4 class="header">
+            Giraffe
+          </h4>
+          <p class="paragraph">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </div>
+      </li>
+      <li class="card">
+        <img src="assets/bread-shoes.jpg" alt="shoes made of bread loaves">
+        <div class="card-content">
+          <h3 class="subheader">
+            Animals
+          </h3>
+          <h4 class="header">
+            Monkey
+          </h4>
+          <p class="paragraph">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </div>
+      </li>
+    </ul>
+  </section>
+</body>
+</html>
