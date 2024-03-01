@@ -7,8 +7,9 @@
   height: 100%;
   max-width: 100%;
   margin: 0 auto;
-  padding-bottom: 5.5rem;
+  padding-bottom: 5%;
   aspect-ratio: 16 / 9;
+  transition: padding-bottom 0.5s ease;
 }
 
 iframe { 
@@ -24,13 +25,13 @@ iframe {
   /* Mobile */
   @media screen and (max-width: 768px) {
       .vid-container {
-        padding-bottom: 8%;
+        padding-bottom: 9%;
     }
 }
 
   /* Tablet */
   @media screen and (min-width: 768px) and (max-width: 1199px){
     .vid-container {
-      padding-bottom: 10%;
+      padding-bottom: 7%;
     }
 }
