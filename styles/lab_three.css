@@ -24,13 +24,13 @@ iframe {
   /* Mobile */
   @media screen and (max-width: 768px) {
       .vid-container {
-        padding-bottom: 75%;
+        padding-bottom: 8%;
     }
 }
 
   /* Tablet */
   @media screen and (min-width: 768px) and (max-width: 1199px){
     .vid-container {
-      padding-bottom: 42%;
+      padding-bottom: 10%;
     }
 }
