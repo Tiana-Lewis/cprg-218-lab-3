@@ -39,9 +39,6 @@ body {
     .card {
         width: calc(100% - 15px) /* accounting for width-gap */
     }
-    .card:first-child {
-      padding-top: 75%; /* added to accomodate for the video */
-    }
   }
 
   /* Tablet */
